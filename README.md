@@ -42,10 +42,6 @@ The dataset includes:
 - Age groups
 - Premium, coverage, and claim amounts
 
-> Dataset is anonymized / simulated for learning and analysis purposes.
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
