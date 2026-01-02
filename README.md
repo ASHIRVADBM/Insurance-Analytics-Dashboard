@@ -1,7 +1,7 @@
 ## 📌 Overview
 This project features an interactive **Insurance Analytics Dashboard** built using **Power BI**.  
 It provides insights into insurance policies, premiums, claims, settlements, and customer demographics to support data-driven business decisions.
-
+Dashboard-link - https://app.powerbi.com/groups/me/reports/2bf50b8d-0659-4409-9244-ccc9afd5e837/3bac90ce8d082862be84?experience=power-bi
 ---
 
 ## 🎯 Objectives
